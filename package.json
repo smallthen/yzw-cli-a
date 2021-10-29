@@ -1,5 +1,15 @@
 {
-  "name": "{{ name }}",
-  "description": "{{ description }}",
-  "author": "{{ author }}"
+  "name": "yzw-cli-a",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "build": "npm run build",
+  },
+  "dependencies": {
+    "vue": "^2.6.11",
+  },
+  "devDependencies": {
+    "@babel/eslint-parser": "^7.14.7",
+  },
 }
+
